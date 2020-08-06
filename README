@@ -1,3 +1,17 @@
 README
 
 Personal project exploring my iPhone's health data.
+
+TODO
+
+1. 3D visualization of step data:
+    x-axis - date (yyyy-mm-dd)
+    y-axis - time of day (hh:mm) (use buckets)
+    z-axis - number of steps
+
+    topological visualization of steps during the day, throughout the year
+
+    In order to do this ->
+
+    1. need a visualization.py file
+    2. should separate out data cleaning utilities into it's own py file (eventually)
